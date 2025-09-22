@@ -1,10 +1,27 @@
 # app/main.py
-from fastapi import FastAPI, UploadFile, File, HTTPException, Depends
+from fastapi import FastAPI, UploadFile, File, HTTPException, Depends, Query
+from fastapi.responses import StreamingResponse
 from sqlalchemy.orm import Session
+from io import StringIO
 from .db import engine, Base, get_db
 from . import models, crud, utils, schemas
+import csv
 
 app = FastAPI(title="Globant Data Engineering Challenge - API")
+
+def _rows_to_csv(rows, fieldnames=None):
+    buf = StringIO()
+    if not rows:
+        fieldnames = fieldnames or []
+    else:
+        fieldnames = fieldnames or list(rows[0].keys())
+    w = csv.DictWriter(buf, fieldnames=fieldnames)
+    w.writeheader()
+    for r in rows:
+        w.writerow({k: r.get(k, "") for k in fieldnames})
+    buf.seek(0)
+    return buf
+
 
 
 @app.on_event("startup")
@@ -20,7 +37,7 @@ async def root():
 @app.get("/health")
 async def health():
     return {"status": "healthy"}
-
+    
 
 @app.post("/upload-csv/{table}")
 async def upload_csv(table: str, file: UploadFile = File(...), db: Session = Depends(get_db)):
@@ -84,18 +101,36 @@ def batch_insert(table: str, payload: schemas.BatchPayload, db: Session = Depend
 
 
 @app.get("/metrics/hires-by-quarter-2021")
-def hires_by_quarter_2021(dbs: Session = Depends(get_db)):
+def hires_by_quarter_2021(
+    dbs: Session = Depends(get_db),
+    format: str = Query("json", pattern="^(json|csv)$")
+):
     try:
-        result = crud.hires_by_quarter_2021(dbs)
-        return result
+        rows = crud.hires_by_quarter_2021(dbs)
+        if format == "csv":
+            fieldnames = ["department", "job", "q1", "q2", "q3", "q4"]
+            buf = _rows_to_csv(rows, fieldnames=fieldnames)
+            headers = {"Content-Disposition": 'attachment; filename="hires_by_quarter_2021.csv"'}
+            return StreamingResponse(buf, media_type="text/csv", headers=headers)
+        return rows
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"metrics error: {e}")
+
 
 
 @app.get("/metrics/departments-above-mean-2021")
-def departments_above_mean_2021(dbs: Session = Depends(get_db)):
+def departments_above_mean_2021(
+    dbs: Session = Depends(get_db),
+    format: str = Query("json", pattern="^(json|csv)$")
+):
     try:
-        result = crud.departments_above_mean_2021(dbs)
-        return result
+        rows = crud.departments_above_mean_2021(dbs)
+        if format == "csv":
+            fieldnames = ["id", "department", "hired"]
+            buf = _rows_to_csv(rows, fieldnames=fieldnames)
+            headers = {"Content-Disposition": 'attachment; filename="departments_above_mean_2021.csv"'}
+            return StreamingResponse(buf, media_type="text/csv", headers=headers)
+        return rows
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"metrics error: {e}")
+
