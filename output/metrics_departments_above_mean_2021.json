@@ -1,0 +1,37 @@
+[
+  {
+    "id": 8,
+    "department": "Support",
+    "hired": 221
+  },
+  {
+    "id": 5,
+    "department": "Engineering",
+    "hired": 208
+  },
+  {
+    "id": 6,
+    "department": "Human Resources",
+    "hired": 204
+  },
+  {
+    "id": 7,
+    "department": "Services",
+    "hired": 204
+  },
+  {
+    "id": 4,
+    "department": "Business Development",
+    "hired": 187
+  },
+  {
+    "id": 3,
+    "department": "Research and Development",
+    "hired": 151
+  },
+  {
+    "id": 9,
+    "department": "Marketing",
+    "hired": 143
+  }
+]

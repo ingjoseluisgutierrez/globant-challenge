@@ -1,0 +1,7666 @@
+[
+  {
+    "department": "Accounting",
+    "job": "Account Representative IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Accounting",
+    "job": "Actuary",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Accounting",
+    "job": "Analyst Programmer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Accounting",
+    "job": "Budget/Accounting Analyst III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Accounting",
+    "job": "Cost Accountant",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Accounting",
+    "job": "Database Administrator III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Accounting",
+    "job": "Desktop Support Technician",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Accounting",
+    "job": "Food Chemist",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Accounting",
+    "job": "Graphic Designer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Accounting",
+    "job": "Health Coach III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Accounting",
+    "job": "Health Coach IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Accounting",
+    "job": "Help Desk Technician",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Accounting",
+    "job": "Junior Executive",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Accounting",
+    "job": "Legal Assistant",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Accounting",
+    "job": "Media Manager III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Accounting",
+    "job": "Programmer Analyst IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Accounting",
+    "job": "Programmer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Accounting",
+    "job": "Research Assistant IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Accounting",
+    "job": "Sales Representative",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Accounting",
+    "job": "Senior Cost Accountant",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Accounting",
+    "job": "Senior Developer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Accounting",
+    "job": "Software Test Engineer IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Accounting",
+    "job": "Statistician I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Accounting",
+    "job": "Statistician II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Accounting",
+    "job": "Structural Analysis Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Accounting",
+    "job": "VP Accounting",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Accounting",
+    "job": "Web Designer I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Accounting",
+    "job": "Web Designer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Accounting",
+    "job": "Web Developer I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Accounting",
+    "job": "Web Developer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Business Development",
+    "job": "Accountant I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Accountant IV",
+    "q1": 0,
+    "q2": 2,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Account Executive",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Accounting Assistant I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Account Representative III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Account Representative IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Actuary",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Administrative Assistant I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Administrative Assistant III",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Administrative Officer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Analog Circuit Design manager",
+    "q1": 1,
+    "q2": 2,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Analyst Programmer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Assistant Manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Associate Professor",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Automation Specialist I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Business Development",
+    "job": "Automation Specialist IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Biostatistician II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Biostatistician III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Business Development",
+    "job": "Budget/Accounting Analyst I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Budget/Accounting Analyst III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Budget/Accounting Analyst IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 2
+  },
+  {
+    "department": "Business Development",
+    "job": "Civil Engineer",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Clinical Specialist",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Business Development",
+    "job": "Community Outreach Specialist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Computer Systems Analyst III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Computer Systems Analyst IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Database Administrator II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Database Administrator III",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Database Administrator IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Dental Hygienist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 3,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Developer II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Director of Sales",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Environmental Tech",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Executive Secretary",
+    "q1": 0,
+    "q2": 2,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Food Chemist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Business Development",
+    "job": "General Manager",
+    "q1": 1,
+    "q2": 1,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Geological Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Geologist II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Geologist IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "GIS Technical Architect",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Graphic Designer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Health Coach IV",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Business Development",
+    "job": "Human Resources Assistant III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Human Resources Assistant IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Information Systems Manager",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Internal Auditor",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Junior Executive",
+    "q1": 1,
+    "q2": 0,
+    "q3": 2,
+    "q4": 2
+  },
+  {
+    "department": "Business Development",
+    "job": "Legal Assistant",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Marketing Manager",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Mechanical Systems Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Media Manager III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Occupational Therapist",
+    "q1": 0,
+    "q2": 3,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Office Assistant IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Pharmacist",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Product Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Programmer Analyst II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Programmer I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Programmer III",
+    "q1": 1,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Programmer IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Quality Control Specialist",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 2
+  },
+  {
+    "department": "Business Development",
+    "job": "Quality Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Recruiter",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Recruiting Manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Registered Nurse",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Research Assistant II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Research Assistant III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Research Assistant IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Research Nurse",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Business Development",
+    "job": "Safety Technician IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Sales Representative",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Senior Cost Accountant",
+    "q1": 1,
+    "q2": 0,
+    "q3": 2,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Senior Developer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Senior Editor",
+    "q1": 1,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Senior Financial Analyst",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Senior Quality Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Senior Sales Associate",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Software Test Engineer IV",
+    "q1": 2,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Staff Accountant I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Staff Accountant III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Staff Accountant IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Staff Scientist",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Statistician II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Statistician III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Structural Analysis Engineer",
+    "q1": 0,
+    "q2": 2,
+    "q3": 2,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Structural Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Systems Administrator IV",
+    "q1": 1,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Teacher",
+    "q1": 1,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Technical Writer",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "VP Accounting",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "VP Marketing",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "VP Product Management",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Web Designer I",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Web Designer II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Web Designer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Business Development",
+    "job": "Web Designer IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Web Developer I",
+    "q1": 1,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Business Development",
+    "job": "Web Developer II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Accountant I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Account Coordinator",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Account Executive",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Accounting Assistant IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Account Representative IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Actuary",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Administrative Assistant I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Analog Circuit Design manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Analyst Programmer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Assistant Manager",
+    "q1": 1,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Assistant Media Planner",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Assistant Professor",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Associate Professor",
+    "q1": 0,
+    "q2": 1,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Automation Specialist I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Biostatistician III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Budget/Accounting Analyst I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Engineering",
+    "job": "Budget/Accounting Analyst II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Budget/Accounting Analyst III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Budget/Accounting Analyst IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Chemical Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Civil Engineer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 2
+  },
+  {
+    "department": "Engineering",
+    "job": "Clinical Specialist",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 2
+  },
+  {
+    "department": "Engineering",
+    "job": "Community Outreach Specialist",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Computer Systems Analyst III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Computer Systems Analyst IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Cost Accountant",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Database Administrator I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Database Administrator II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Database Administrator III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Dental Hygienist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Engineer III",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Engineer IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Environmental Tech",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Executive Secretary",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Financial Analyst",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Food Chemist",
+    "q1": 0,
+    "q2": 2,
+    "q3": 2,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "General Manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Engineering",
+    "job": "Geological Engineer",
+    "q1": 1,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Geologist I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Geologist II",
+    "q1": 0,
+    "q2": 3,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "GIS Technical Architect",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Graphic Designer",
+    "q1": 2,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Health Coach I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Health Coach III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Health Coach IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 3
+  },
+  {
+    "department": "Engineering",
+    "job": "Help Desk Operator",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Help Desk Technician",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Human Resources Assistant III",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Human Resources Assistant IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Internal Auditor",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Junior Executive",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Legal Assistant",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Marketing Manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Mechanical Systems Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Media Manager IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Nuclear Power Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Nurse",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Occupational Therapist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Office Assistant II",
+    "q1": 2,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Payment Adjustment Coordinator",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Pharmacist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Physical Therapy Assistant",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Product Engineer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Professor",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Programmer I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Programmer III",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Programmer IV",
+    "q1": 1,
+    "q2": 1,
+    "q3": 1,
+    "q4": 2
+  },
+  {
+    "department": "Engineering",
+    "job": "Project Manager",
+    "q1": 0,
+    "q2": 2,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Quality Control Specialist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Quality Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 5,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Recruiter",
+    "q1": 0,
+    "q2": 0,
+    "q3": 3,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Recruiting Manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Research Assistant II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Research Nurse",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Safety Technician IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Sales Associate",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Sales Representative",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 2
+  },
+  {
+    "department": "Engineering",
+    "job": "Senior Cost Accountant",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Senior Developer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Senior Editor",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Senior Quality Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Engineering",
+    "job": "Social Worker",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Software Engineer I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Software Engineer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Engineering",
+    "job": "Software Test Engineer I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Software Test Engineer IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Staff Accountant IV",
+    "q1": 2,
+    "q2": 0,
+    "q3": 1,
+    "q4": 2
+  },
+  {
+    "department": "Engineering",
+    "job": "Statistician II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Statistician III",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Structural Analysis Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Structural Engineer",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Systems Administrator II",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Engineering",
+    "job": "Tax Accountant",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Teacher",
+    "q1": 1,
+    "q2": 0,
+    "q3": 3,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Technical Writer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "UNKNOWN_JOB",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "VP Accounting",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "VP Product Management",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Web Designer I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 5
+  },
+  {
+    "department": "Engineering",
+    "job": "Web Designer II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Web Designer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Web Designer IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Engineering",
+    "job": "Web Developer I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Engineering",
+    "job": "Web Developer II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Accountant I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Account Coordinator",
+    "q1": 1,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Account Executive",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Accounting Assistant II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Accounting Assistant IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Account Representative IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Actuary",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Analog Circuit Design manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Analyst Programmer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Assistant Manager",
+    "q1": 1,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Assistant Media Planner",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Human Resources",
+    "job": "Assistant Professor",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Associate Professor",
+    "q1": 2,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Human Resources",
+    "job": "Automation Specialist I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Automation Specialist IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Biostatistician III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Budget/Accounting Analyst I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Budget/Accounting Analyst III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 3
+  },
+  {
+    "department": "Human Resources",
+    "job": "Budget/Accounting Analyst IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Chemical Engineer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Civil Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Clinical Specialist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 3
+  },
+  {
+    "department": "Human Resources",
+    "job": "Community Outreach Specialist",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Cost Accountant",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Database Administrator I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Human Resources",
+    "job": "Database Administrator III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Database Administrator IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Data Coordiator",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Design Engineer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Developer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Human Resources",
+    "job": "Developer IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Director of Sales",
+    "q1": 1,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Editor",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Electrical Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Engineer III",
+    "q1": 2,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Engineer IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Environmental Tech",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Executive Secretary",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Financial Advisor",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Food Chemist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Geological Engineer",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Geologist II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Geologist IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "GIS Technical Architect",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Graphic Designer",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Health Coach I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Health Coach III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Health Coach IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Human Resources Assistant II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Human Resources Assistant III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Human Resources Assistant IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Human Resources Manager",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Junior Executive",
+    "q1": 1,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Marketing Assistant",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Marketing Manager",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Media Manager III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Nurse",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Occupational Therapist",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Office Assistant II",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Operator",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Paralegal",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Payment Adjustment Coordinator",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Pharmacist",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Physical Therapy Assistant",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Product Engineer",
+    "q1": 0,
+    "q2": 2,
+    "q3": 1,
+    "q4": 2
+  },
+  {
+    "department": "Human Resources",
+    "job": "Professor",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Programmer Analyst IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Programmer III",
+    "q1": 0,
+    "q2": 2,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Programmer IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Quality Control Specialist",
+    "q1": 0,
+    "q2": 2,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Quality Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Human Resources",
+    "job": "Recruiter",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Recruiting Manager",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 2
+  },
+  {
+    "department": "Human Resources",
+    "job": "Registered Nurse",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Research Assistant I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Research Assistant II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Research Assistant IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Research Associate",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Safety Technician II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Safety Technician III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Sales Representative",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Senior Cost Accountant",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 3
+  },
+  {
+    "department": "Human Resources",
+    "job": "Senior Developer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Senior Editor",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 2
+  },
+  {
+    "department": "Human Resources",
+    "job": "Senior Financial Analyst",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Senior Quality Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Social Worker",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 3
+  },
+  {
+    "department": "Human Resources",
+    "job": "Software Engineer I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Human Resources",
+    "job": "Software Engineer III",
+    "q1": 0,
+    "q2": 3,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Software Engineer IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Software Test Engineer IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Staff Accountant II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Staff Accountant IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Staff Scientist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Statistician II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Structural Analysis Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Systems Administrator II",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Systems Administrator IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Tax Accountant",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Human Resources",
+    "job": "Teacher",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Technical Writer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "VP Accounting",
+    "q1": 1,
+    "q2": 0,
+    "q3": 2,
+    "q4": 2
+  },
+  {
+    "department": "Human Resources",
+    "job": "VP Marketing",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "VP Quality Control",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Web Designer I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Web Designer II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Human Resources",
+    "job": "Web Developer I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Human Resources",
+    "job": "Web Developer II",
+    "q1": 1,
+    "q2": 0,
+    "q3": 2,
+    "q4": 2
+  },
+  {
+    "department": "Legal",
+    "job": "Accountant I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Accountant IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Account Coordinator",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Account Executive",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "Account Representative IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "Associate Professor",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "Biostatistician II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Budget/Accounting Analyst III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 2
+  },
+  {
+    "department": "Legal",
+    "job": "Chief Design Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "Computer Systems Analyst IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Database Administrator II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Database Administrator III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "Dental Hygienist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "Engineer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "Engineer IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Financial Advisor",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "Geologist I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Geologist II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "Health Coach IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "Human Resources Assistant IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Internal Auditor",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Marketing Manager",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Media Manager III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "Occupational Therapist",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Office Assistant IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Programmer Analyst II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Programmer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "Quality Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Recruiter",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Senior Editor",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Senior Financial Analyst",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Senior Quality Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "Software Engineer I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "Software Test Engineer I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "Software Test Engineer IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "Staff Scientist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "Statistician I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Statistician II",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Structural Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Systems Administrator II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Tax Accountant",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "Teacher",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "UNKNOWN_JOB",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Legal",
+    "job": "Web Developer I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Legal",
+    "job": "Web Developer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Accountant I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Accountant IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Account Executive",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Accounting Assistant IV",
+    "q1": 0,
+    "q2": 3,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Administrative Assistant I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Analyst Programmer",
+    "q1": 1,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Assistant Manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Marketing",
+    "job": "Assistant Professor",
+    "q1": 1,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Associate Professor",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Biostatistician II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Marketing",
+    "job": "Biostatistician III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Budget/Accounting Analyst II",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Marketing",
+    "job": "Budget/Accounting Analyst IV",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Chemical Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Civil Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Clinical Specialist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Computer Systems Analyst II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Computer Systems Analyst III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Computer Systems Analyst IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 3,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Cost Accountant",
+    "q1": 2,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Database Administrator III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Database Administrator IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Data Coordiator",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Dental Hygienist",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Marketing",
+    "job": "Desktop Support Technician",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Developer IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Electrical Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Engineer IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Environmental Tech",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Executive Secretary",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Financial Analyst",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Food Chemist",
+    "q1": 1,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "General Manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Geologist II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "GIS Technical Architect",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Graphic Designer",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Health Coach I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Health Coach III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Health Coach IV",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Human Resources Assistant III",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Human Resources Manager",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Internal Auditor",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Mechanical Systems Engineer",
+    "q1": 2,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Media Manager IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Nuclear Power Engineer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Nurse",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Nurse Practicioner",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Occupational Therapist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Office Assistant III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Pharmacist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Physical Therapy Assistant",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Product Engineer",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Professor",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Programmer IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Quality Control Specialist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Quality Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Recruiter",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Recruiting Manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Registered Nurse",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Research Assistant IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Safety Technician I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Safety Technician II",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Safety Technician IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Sales Representative",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Senior Cost Accountant",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Senior Developer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Senior Editor",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Senior Financial Analyst",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Software Engineer IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Software Test Engineer I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Software Test Engineer IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Staff Accountant II",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Staff Accountant III",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Staff Scientist",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Statistician I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Statistician II",
+    "q1": 1,
+    "q2": 3,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Structural Engineer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Systems Administrator IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Tax Accountant",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Teacher",
+    "q1": 2,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Technical Writer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "UNKNOWN_JOB",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "VP Accounting",
+    "q1": 0,
+    "q2": 1,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "VP Marketing",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "VP Product Management",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "VP Quality Control",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Marketing",
+    "job": "Web Designer I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Web Developer I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Marketing",
+    "job": "Web Developer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Accountant I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Accounting Assistant IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Account Representative III",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Analyst Programmer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Assistant Manager",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Automation Specialist I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Budget/Accounting Analyst I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Product Management",
+    "job": "Budget/Accounting Analyst IV",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Cost Accountant",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Database Administrator I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Product Management",
+    "job": "Electrical Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Product Management",
+    "job": "Engineer IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Geological Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Graphic Designer",
+    "q1": 0,
+    "q2": 3,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Help Desk Operator",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Product Management",
+    "job": "Help Desk Technician",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Junior Executive",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Product Management",
+    "job": "Legal Assistant",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Librarian",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Marketing Manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Product Management",
+    "job": "Nurse Practicioner",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Office Assistant IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Payment Adjustment Coordinator",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Pharmacist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Physical Therapy Assistant",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Product Management",
+    "job": "Programmer IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Quality Control Specialist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Research Assistant II",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Sales Associate",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Senior Editor",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Software Consultant",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Software Test Engineer I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Software Test Engineer IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Staff Accountant IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Staff Scientist",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Systems Administrator IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Product Management",
+    "job": "Technical Writer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Product Management",
+    "job": "Web Developer I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Account Executive",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Accounting Assistant IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Account Representative III",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Account Representative IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Actuary",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Administrative Officer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Analog Circuit Design manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Assistant Professor",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 2
+  },
+  {
+    "department": "Research and Development",
+    "job": "Associate Professor",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Automation Specialist I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Biostatistician II",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Biostatistician III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Research and Development",
+    "job": "Budget/Accounting Analyst III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Budget/Accounting Analyst IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Chemical Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Chief Design Engineer",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Civil Engineer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Clinical Specialist",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Compensation Analyst",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Computer Systems Analyst III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Cost Accountant",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Database Administrator II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Database Administrator III",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Data Coordiator",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Dental Hygienist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Director of Sales",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Electrical Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Engineer IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Environmental Tech",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Executive Secretary",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Food Chemist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "General Manager",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Geologist II",
+    "q1": 1,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Geologist IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Graphic Designer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Research and Development",
+    "job": "Health Coach I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Health Coach III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Health Coach IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 3
+  },
+  {
+    "department": "Research and Development",
+    "job": "Information Systems Manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Internal Auditor",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Junior Executive",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Legal Assistant",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Librarian",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Marketing Manager",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Media Manager III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Nuclear Power Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Operator",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Research and Development",
+    "job": "Paralegal",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Payment Adjustment Coordinator",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Pharmacist",
+    "q1": 1,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Programmer Analyst II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Programmer Analyst IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Programmer I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Research and Development",
+    "job": "Programmer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Programmer IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Project Manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Quality Control Specialist",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Recruiter",
+    "q1": 1,
+    "q2": 1,
+    "q3": 2,
+    "q4": 2
+  },
+  {
+    "department": "Research and Development",
+    "job": "Recruiting Manager",
+    "q1": 4,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Registered Nurse",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Research Assistant II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Research Associate",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Sales Associate",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Sales Representative",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Senior Cost Accountant",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Senior Developer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Senior Editor",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Senior Financial Analyst",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Senior Quality Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Social Worker",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Software Engineer I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Software Test Engineer I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Software Test Engineer IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Speech Pathologist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Staff Accountant IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Staff Scientist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Statistician I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Research and Development",
+    "job": "Statistician II",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Structural Engineer",
+    "q1": 1,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Systems Administrator II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Systems Administrator IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Tax Accountant",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Teacher",
+    "q1": 0,
+    "q2": 1,
+    "q3": 2,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Technical Writer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "UNKNOWN_JOB",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "VP Accounting",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Web Designer I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Research and Development",
+    "job": "Web Designer II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Research and Development",
+    "job": "Web Developer III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Sales",
+    "job": "Account Executive",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Accounting Assistant II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Accounting Assistant IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Actuary",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Administrative Assistant I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Administrative Officer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Analyst Programmer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Assistant Manager",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Assistant Professor",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Associate Professor",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Biostatistician II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Biostatistician III",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Sales",
+    "job": "Budget/Accounting Analyst III",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Budget/Accounting Analyst IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 1
+  },
+  {
+    "department": "Sales",
+    "job": "Business Systems Development Analyst",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Sales",
+    "job": "Chief Design Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Civil Engineer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Clinical Specialist",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Computer Systems Analyst I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Computer Systems Analyst IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Sales",
+    "job": "Cost Accountant",
+    "q1": 1,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Database Administrator III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Design Engineer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Director of Sales",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Sales",
+    "job": "Engineer III",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Engineer IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Financial Analyst",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Sales",
+    "job": "Geologist II",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Sales",
+    "job": "Geologist IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Sales",
+    "job": "Graphic Designer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Health Coach I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Health Coach III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 2
+  },
+  {
+    "department": "Sales",
+    "job": "Human Resources Manager",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Librarian",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Mechanical Systems Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Media Manager II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Sales",
+    "job": "Nurse",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Nurse Practicioner",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Pharmacist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Sales",
+    "job": "Programmer IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Sales",
+    "job": "Quality Control Specialist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Sales",
+    "job": "Recruiter",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Recruiting Manager",
+    "q1": 0,
+    "q2": 1,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Research Assistant II",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Research Assistant IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Senior Financial Analyst",
+    "q1": 1,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Senior Quality Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Social Worker",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Sales",
+    "job": "Software Test Engineer IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Staff Accountant I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Staff Accountant III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Staff Accountant IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Staff Scientist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Sales",
+    "job": "Statistician II",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Systems Administrator IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Teacher",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Sales",
+    "job": "VP Accounting",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 3
+  },
+  {
+    "department": "Sales",
+    "job": "Web Designer I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Sales",
+    "job": "Web Developer III",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Accountant I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Accountant III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Account Coordinator",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Account Executive",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Accounting Assistant I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Accounting Assistant IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Administrative Assistant I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Analog Circuit Design manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Analyst Programmer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Assistant Professor",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Associate Professor",
+    "q1": 0,
+    "q2": 1,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Biostatistician II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Biostatistician III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Biostatistician IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Budget/Accounting Analyst II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Budget/Accounting Analyst III",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Budget/Accounting Analyst IV",
+    "q1": 0,
+    "q2": 3,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Chemical Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Chief Design Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Civil Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Clinical Specialist",
+    "q1": 1,
+    "q2": 1,
+    "q3": 2,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Community Outreach Specialist",
+    "q1": 1,
+    "q2": 1,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Computer Systems Analyst IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Cost Accountant",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Database Administrator I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Database Administrator IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Data Coordiator",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Dental Hygienist",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Design Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Developer I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Developer II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Developer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Director of Sales",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Engineer I",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Engineer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 3,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Engineer IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Environmental Tech",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Executive Secretary",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Food Chemist",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Services",
+    "job": "General Manager",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Geological Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Geologist I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Geologist II",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Geologist IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 3
+  },
+  {
+    "department": "Services",
+    "job": "GIS Technical Architect",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Graphic Designer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Health Coach III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Health Coach IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Human Resources Assistant II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Human Resources Assistant IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Human Resources Manager",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Information Systems Manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Internal Auditor",
+    "q1": 0,
+    "q2": 3,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Junior Executive",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Legal Assistant",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Librarian",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Media Manager III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Services",
+    "job": "Media Manager IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Nuclear Power Engineer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Nurse Practicioner",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Occupational Therapist",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Operator",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Payment Adjustment Coordinator",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Pharmacist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Physical Therapy Assistant",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Professor",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Services",
+    "job": "Programmer Analyst II",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Programmer I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Programmer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Programmer IV",
+    "q1": 2,
+    "q2": 3,
+    "q3": 0,
+    "q4": 3
+  },
+  {
+    "department": "Services",
+    "job": "Project Manager",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Quality Control Specialist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Quality Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Recruiter",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Recruiting Manager",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Registered Nurse",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Research Assistant II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Services",
+    "job": "Research Assistant III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Research Assistant IV",
+    "q1": 0,
+    "q2": 2,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Safety Technician IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Sales Representative",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Senior Cost Accountant",
+    "q1": 1,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Senior Developer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Senior Editor",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Senior Financial Analyst",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Software Engineer I",
+    "q1": 0,
+    "q2": 3,
+    "q3": 0,
+    "q4": 3
+  },
+  {
+    "department": "Services",
+    "job": "Software Engineer III",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Software Test Engineer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Software Test Engineer IV",
+    "q1": 1,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Staff Accountant III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Staff Accountant IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Staff Scientist",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Statistician I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Statistician II",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Statistician III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Structural Analysis Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "Systems Administrator IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Teacher",
+    "q1": 3,
+    "q2": 2,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "UNKNOWN_JOB",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "VP Accounting",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "VP Product Management",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 1
+  },
+  {
+    "department": "Services",
+    "job": "VP Quality Control",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Web Designer I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Web Designer II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Web Designer III",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Web Developer I",
+    "q1": 1,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Services",
+    "job": "Web Developer II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Accountant IV",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Account Coordinator",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Account Executive",
+    "q1": 0,
+    "q2": 1,
+    "q3": 2,
+    "q4": 2
+  },
+  {
+    "department": "Support",
+    "job": "Accounting Assistant I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Accounting Assistant II",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Accounting Assistant III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Accounting Assistant IV",
+    "q1": 0,
+    "q2": 2,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Account Representative III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Support",
+    "job": "Account Representative IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Actuary",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Support",
+    "job": "Administrative Assistant III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Analog Circuit Design manager",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Analyst Programmer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Assistant Manager",
+    "q1": 2,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Assistant Media Planner",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Support",
+    "job": "Assistant Professor",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Associate Professor",
+    "q1": 0,
+    "q2": 2,
+    "q3": 3,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Automation Specialist I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Automation Specialist IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Biostatistician II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Biostatistician III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 3
+  },
+  {
+    "department": "Support",
+    "job": "Budget/Accounting Analyst I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Budget/Accounting Analyst IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Chemical Engineer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Chief Design Engineer",
+    "q1": 1,
+    "q2": 3,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Civil Engineer",
+    "q1": 0,
+    "q2": 2,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Clinical Specialist",
+    "q1": 1,
+    "q2": 1,
+    "q3": 2,
+    "q4": 2
+  },
+  {
+    "department": "Support",
+    "job": "Computer Systems Analyst IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Cost Accountant",
+    "q1": 1,
+    "q2": 2,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Database Administrator I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Database Administrator II",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Database Administrator III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Data Coordiator",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Dental Hygienist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Developer II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Director of Sales",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Support",
+    "job": "Editor",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Electrical Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Engineer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 2
+  },
+  {
+    "department": "Support",
+    "job": "Engineer IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Environmental Tech",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Executive Secretary",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Food Chemist",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "General Manager",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Geological Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Geologist II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Support",
+    "job": "Geologist IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "GIS Technical Architect",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Graphic Designer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Health Coach III",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Health Coach IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Human Resources Assistant II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Human Resources Assistant III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Human Resources Assistant IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Junior Executive",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Marketing Manager",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Media Manager IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Nurse",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Nurse Practicioner",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Occupational Therapist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Paralegal",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Pharmacist",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Product Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Professor",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Programmer Analyst II",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Programmer I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Programmer III",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Programmer IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 4,
+    "q4": 2
+  },
+  {
+    "department": "Support",
+    "job": "Project Manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Quality Engineer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Recruiter",
+    "q1": 2,
+    "q2": 3,
+    "q3": 2,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Recruiting Manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Registered Nurse",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 2
+  },
+  {
+    "department": "Support",
+    "job": "Research Assistant III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Research Assistant IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Support",
+    "job": "Sales Representative",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Senior Cost Accountant",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Senior Developer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Senior Editor",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 3
+  },
+  {
+    "department": "Support",
+    "job": "Senior Financial Analyst",
+    "q1": 1,
+    "q2": 2,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Social Worker",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Software Engineer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Support",
+    "job": "Software Test Engineer I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Software Test Engineer IV",
+    "q1": 0,
+    "q2": 2,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Speech Pathologist",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Staff Accountant III",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Staff Accountant IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Staff Scientist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Statistician I",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Statistician II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Statistician III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Structural Analysis Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Structural Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Systems Administrator II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Systems Administrator IV",
+    "q1": 2,
+    "q2": 4,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Support",
+    "job": "Teacher",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Technical Writer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "UNKNOWN_JOB",
+    "q1": 1,
+    "q2": 2,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "VP Accounting",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "VP Marketing",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "VP Product Management",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "VP Quality Control",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Web Designer I",
+    "q1": 1,
+    "q2": 4,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Web Designer II",
+    "q1": 0,
+    "q2": 2,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Web Designer IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Web Developer I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Support",
+    "job": "Web Developer II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Support",
+    "job": "Web Developer III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Accountant II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Accountant IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Account Coordinator",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Accounting Assistant I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Accounting Assistant IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Account Representative IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Actuary",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Analog Circuit Design manager",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Analyst Programmer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Budget/Accounting Analyst III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Budget/Accounting Analyst IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Clinical Specialist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Community Outreach Specialist",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Training",
+    "job": "Computer Systems Analyst III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Database Administrator II",
+    "q1": 1,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Database Administrator III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Training",
+    "job": "Data Coordiator",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Dental Hygienist",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Design Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Editor",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Engineer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Financial Analyst",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Food Chemist",
+    "q1": 1,
+    "q2": 1,
+    "q3": 2,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Geological Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Geologist I",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Geologist II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Geologist IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Graphic Designer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Health Coach III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Health Coach IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Human Resources Assistant II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Human Resources Assistant IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Information Systems Manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Internal Auditor",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Librarian",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Mechanical Systems Engineer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Media Manager III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Training",
+    "job": "Nuclear Power Engineer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Office Assistant II",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Operator",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Paralegal",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Pharmacist",
+    "q1": 0,
+    "q2": 2,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Programmer I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Programmer IV",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Quality Control Specialist",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Quality Engineer",
+    "q1": 2,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Recruiter",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Training",
+    "job": "Registered Nurse",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Research Assistant IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 1,
+    "q4": 2
+  },
+  {
+    "department": "Training",
+    "job": "Research Associate",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Sales Representative",
+    "q1": 0,
+    "q2": 1,
+    "q3": 1,
+    "q4": 2
+  },
+  {
+    "department": "Training",
+    "job": "Senior Editor",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 2
+  },
+  {
+    "department": "Training",
+    "job": "Senior Financial Analyst",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Software Engineer I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Software Engineer III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Software Test Engineer IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Staff Accountant III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "Training",
+    "job": "Staff Accountant IV",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 2
+  },
+  {
+    "department": "Training",
+    "job": "Staff Scientist",
+    "q1": 0,
+    "q2": 1,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Statistician II",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Statistician III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Structural Analysis Engineer",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Structural Engineer",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Systems Administrator II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Systems Administrator IV",
+    "q1": 1,
+    "q2": 0,
+    "q3": 2,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Teacher",
+    "q1": 0,
+    "q2": 2,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Technical Writer",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "VP Product Management",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "VP Quality Control",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "Training",
+    "job": "Web Developer III",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "UNKNOWN_DEPARTMENT",
+    "job": "Administrative Assistant I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "UNKNOWN_DEPARTMENT",
+    "job": "Analog Circuit Design manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "UNKNOWN_DEPARTMENT",
+    "job": "Assistant Media Planner",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "UNKNOWN_DEPARTMENT",
+    "job": "Database Administrator III",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "UNKNOWN_DEPARTMENT",
+    "job": "Dental Hygienist",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "UNKNOWN_DEPARTMENT",
+    "job": "Junior Executive",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "UNKNOWN_DEPARTMENT",
+    "job": "Nurse",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "UNKNOWN_DEPARTMENT",
+    "job": "Occupational Therapist",
+    "q1": 1,
+    "q2": 0,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "UNKNOWN_DEPARTMENT",
+    "job": "Project Manager",
+    "q1": 0,
+    "q2": 0,
+    "q3": 1,
+    "q4": 0
+  },
+  {
+    "department": "UNKNOWN_DEPARTMENT",
+    "job": "Research Assistant II",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 0
+  },
+  {
+    "department": "UNKNOWN_DEPARTMENT",
+    "job": "Senior Editor",
+    "q1": 0,
+    "q2": 1,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "UNKNOWN_DEPARTMENT",
+    "job": "Senior Financial Analyst",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "UNKNOWN_DEPARTMENT",
+    "job": "Software Engineer I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  },
+  {
+    "department": "UNKNOWN_DEPARTMENT",
+    "job": "Web Developer I",
+    "q1": 0,
+    "q2": 0,
+    "q3": 0,
+    "q4": 1
+  }
+]
